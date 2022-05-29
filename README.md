@@ -1,2 +1,2 @@
 # helloWorld
-simplle app that displays "Hello World"
+simple app that displays "Hello World"
